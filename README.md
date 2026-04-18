@@ -14,3 +14,4 @@ ex) [kijai/ComfyUI-KJNodes: Various custom nodes for ComfyUI](https://github.com
 
 [munkyfoot/ComfyUI-TextOverlay: A custom node for ComfyUI that allows users to overlay text on images with support for custom fonts and style.](https://github.com/Munkyfoot/ComfyUI-TextOverlay)
 
+[gremlation/ComfyUI-ImageLabel: A ComfyUI node that extends an image vertically to add a label either above or below it](https://github.com/gremlation/ComfyUI-ImageLabel)
