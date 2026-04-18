@@ -1,5 +1,5 @@
 # ComfyUI-AutoGridSaver
-Auto-generate a grid for images
+Auto-generate a grid for queue images
 
 ## metadata_extractor
 
