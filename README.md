@@ -5,7 +5,7 @@ Auto-generate a grid for images
 
 ![img1](https://raw.githubusercontent.com/zagk/ComfyUI-AutoGridSaver/refs/heads/main/screenshot/2026-04-18%20200448.jpg)
 
-### custom image label node combination
+### image label node combination
 
 
 ![img1](https://github.com/zagk/ComfyUI-AutoGridSaver/blob/main/screenshot/AutoGrid_grid_0091.jpg)
