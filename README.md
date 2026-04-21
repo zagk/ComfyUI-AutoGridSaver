@@ -12,8 +12,7 @@ Auto-generate a grid for queue images
 
 ### ex) image label custom node
 
-rjgoif/ComfyUI-Img-Label-Tools: A collection of ComfyUI nodes to help clearly annotate your images.
-https://github.com/rjgoif/ComfyUI-Img-Label-Tools
+### [rjgoif/ComfyUI-Img-Label-Tools: A collection of ComfyUI nodes to help clearly annotate your images.](https://github.com/rjgoif/ComfyUI-Img-Label-Tools)
 
 [kijai/ComfyUI-KJNodes: Various custom nodes for ComfyUI](https://github.com/kijai/ComfyUI-KJNodes)
 
